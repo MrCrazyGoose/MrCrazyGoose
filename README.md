@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @MrCrazyGoose
-- 👀 I’m interested in: stuff
-- 🌱 I’m currently learning: stuff
-- 💞️ I’m looking to collaborate on: nothing
-- 📫 How to reach me: don't
+- 👀 I’m interested in: java stuff
+- 🌱 I’m currently learning: java stuff
+- 💞️ I’m looking to collaborate on: nothing unless...
+- 📫 How to reach me: don't or philswiftandrickastley@gmail.com (but thats mainly for DogeTrain)
+- What is DogeTrain? Oh, its just a little game with millions of combinations of game settings so you will never get bored of it (you also get to eat dogecoins so JUST PLAY IT). DOMAIN: WWW.TRAIN.CF
 
 <!---
 MrCrazyGoose/MrCrazyGoose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
